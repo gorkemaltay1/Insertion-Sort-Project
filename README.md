@@ -2,7 +2,7 @@
 
 ## Insertion Sort 
 
-#### Patika Dev Profile : https://app.patika.dev/ahmetloca
+#### Patika Dev Profile : https://app.patika.dev/gorkemaltay
 
 ## Proje - 1
 

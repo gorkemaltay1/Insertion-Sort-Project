@@ -1,4 +1,4 @@
-# Data Structures and Algorithms
+# Algoritma ve Veri Yapıları
 
 ## Insertion Sort 
 
